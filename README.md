@@ -2,7 +2,6 @@
 
 ### Hi there 👋, my name is mizan
 #### Web Designer & Developer
-![Web Designer & Developer](https://pbs.twimg.com/profile_banners/1613389199952195585/1673499100/600x200)
 
 Hello there, I hope you are doing good! My name is mizan. A Senior Web Designer & Developer.
 
